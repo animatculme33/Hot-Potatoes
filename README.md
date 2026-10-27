@@ -218,4 +218,4 @@ Hot Potatoes is offered as a complete free version with all features and updates
 Unlock your teaching potential with Hot Potatoes—download now and start creating engaging questionnaires today!
 
 ---
-**Last updated:** 2026-10-26 21:58:05 UTC
+**Last updated:** 2026-10-27 01:03:29 UTC
